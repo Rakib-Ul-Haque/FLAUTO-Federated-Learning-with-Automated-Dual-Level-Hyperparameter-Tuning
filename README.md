@@ -1,6 +1,6 @@
 # FLAUTO
 
-Project Name: Federated Learning with Automated Dual-Level Hyperparameter Tuning (FLAUTO)
+Paper title: Federated Learning with Automated Dual-Level Hyperparameter Tuning
 
 Rakib Ul Haque and Panagiotis (Panos P.) Markopoulos
 
