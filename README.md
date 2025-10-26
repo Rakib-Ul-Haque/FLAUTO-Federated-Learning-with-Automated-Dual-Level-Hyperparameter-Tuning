@@ -12,6 +12,6 @@ Code by: rakibul.haque@utsa.edu
 
 Date: 01/09/2025
  
-Cite as: R. Ul Haque and P. Markopoulos, "Federated Learning with Automated Dual-Level Hyperparameter Tuning", 2025.
+Cite as: R. Ul Haque and P. Markopoulos, "Federated Learning with Automated Dual-Level Hyperparameter Tuning", IEEE Open Journal of Signal Processing, 2025.
  
 Datasets and weights repository: https://utsacloud-my.sharepoint.com/:f:/g/personal/rakibul_haque_utsa_edu/EkUll51_CElDvlazIOTMrgAB-AXcNZ-yPCz4UlnUAckj4A
